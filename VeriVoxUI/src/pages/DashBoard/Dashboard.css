@@ -1,0 +1,23 @@
+.RoutePage {
+  width: 85%;
+  height: max-content;
+  height: 200px;
+  position: absolute;
+  margin-left: 15%;
+  margin-top: 60px;
+}
+
+.Page {
+  padding: 2%;
+  border-radius: 10px;
+  background-color: #ffffff;
+  height: fit-content;
+}
+.dashboard-title {
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.dashboard-search {
+  width: 100%;
+}

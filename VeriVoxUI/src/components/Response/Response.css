@@ -1,0 +1,9 @@
+.response-box {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 2%;
+}
+
+.pie-chart {
+  height: 40px;
+}

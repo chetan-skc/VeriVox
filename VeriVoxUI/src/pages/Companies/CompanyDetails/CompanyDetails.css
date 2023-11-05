@@ -1,0 +1,101 @@
+.company-information-tab {
+  background-color: #fff;
+  color: black;
+}
+
+.company-information-tab p {
+  margin: 0;
+}
+
+.company-detail-title {
+  font-weight: 600;
+}
+
+.product-information-tab {
+  background-color: #fff;
+  color: black;
+}
+
+.add-product-button {
+  float: right;
+  cursor: pointer;
+  outline: 0;
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  :hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+  }
+}
+
+.company-update-overlay-box {
+  border-radius: 5%;
+  position: fixed;
+  top: 15%;
+  left: 25%;
+  z-index: 11111110;
+  opacity: 1;
+  padding: 3%;
+  height: fit-content;
+  width: 50%;
+  background-color: #ffffff;
+}
+
+.new-product-button {
+  float: right;
+
+  cursor: pointer;
+  outline: 0;
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  :hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+  }
+}
+
+.product-edit-button,
+.product-delete-button {
+  display: inline-block;
+  float: right;
+  margin-top: 15%;
+
+  outline: none;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  padding: 2px 16px;
+  height: 32px;
+  min-width: 60px;
+  min-height: 32px;
+  border: none;
+  color: #fff;
+  background-color: #4f545c;
+  transition: background-color 0.17s ease, color 0.17s ease;
+}

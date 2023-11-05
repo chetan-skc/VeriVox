@@ -1,0 +1,12 @@
+.company-information-tab {
+  background-color: #fff;
+  color: black;
+}
+
+.company-information-tab p {
+  margin: 0;
+}
+
+.company-detail-title {
+  font-weight: 600;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vMEfoYQUnOOFKZjwxOiOuN+0Kxe4VVxUx2YNgzeG3Xc=",
+  "Source": "VeriVox.Host",
+  "BasePath": "_content/VeriVox.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

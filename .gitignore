@@ -1,0 +1,16 @@
+.git/
+.vs/
+/VeriVox/.git/
+/VeriVox/.vs/
+/VeriVox/UnitTesting/bin/
+/VeriVox/UnitTesting/obj/
+/VeriVox/VeriVox.Buisness/bin/
+/VeriVox/VeriVox.Buisness/obj/
+/VeriVox/VeriVox.Core/bin/
+/VeriVox/VeriVox.Core/obj/
+/VeriVox/VeriVox.Database/bin/
+/VeriVox/VeriVox.Database/obj/
+/VeriVox/VeriVox.Host/bin/
+/VeriVox/VeriVox.Host/obj/
+/VeriVox/VeriVox.Repository/bin/
+/VeriVox/VeriVox.Repository/obj/

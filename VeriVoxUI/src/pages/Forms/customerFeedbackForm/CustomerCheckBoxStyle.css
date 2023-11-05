@@ -1,0 +1,4 @@
+.custom-checkbox:checked {
+    background-color: #FFC000; /* Change the background color when the checkbox is selected */
+    border: 2px solid #FFC000; /* Change the border color when the checkbox is selected */
+}

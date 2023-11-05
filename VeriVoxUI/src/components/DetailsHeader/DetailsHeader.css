@@ -1,0 +1,39 @@
+.image-container {
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5%;
+  display: inline;
+}
+
+.Title-Holder {
+  display: flex;
+}
+
+.edit-button,
+.delete-button {
+  margin-left: 1%;
+  float: right;
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  padding: 2px 16px;
+  height: 32px;
+  min-width: 60px;
+  min-height: 32px;
+  border: none;
+  color: #fff;
+  background-color: #4f545c;
+  transition: background-color 0.17s ease, color 0.17s ease;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #6d2a2a;
+  border-radius: 50%;
+  display: inline-block;
+}

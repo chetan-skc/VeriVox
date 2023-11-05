@@ -1,0 +1,86 @@
+.login-container {
+  margin-top: 10%;
+  align-items: center;
+}
+
+.login-image {
+  object-fit: cover;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.motto {
+  margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(99, 98, 98);
+  padding-top: 0;
+  padding-left: 8%;
+  margin-left: 7%;
+}
+
+.wider-verivox {
+  font-size: 300%;
+  width: 90%;
+  font-family: sans-serif;
+  font-weight: 1000;
+  color: rgb(47, 52, 126);
+  margin-top: 1%;
+  margin-left: 10%;
+}
+
+.GetStarted {
+  margin-top: 15%;
+}
+
+.InputFields {
+  border: 1px solid #ccc;
+  padding: 1.5%;
+  width: 80%;
+  margin-top: 0px;
+  transition: border-color 0.3s ease-in-out;
+  border-radius: 5px;
+
+  color: rgb(58, 55, 55);
+  &:focus {
+    outline: none;
+    border-color: #e4e8eb;
+  }
+}
+
+.password-input {
+  display: flex;
+}
+
+.PasswordInputField {
+  border: 1px solid #ccc;
+  padding: 1%;
+  width: 70%;
+  margin-top: 0px;
+  transition: border-color 0.3s ease-in-out;
+  border-radius: 5px;
+
+  color: rgb(58, 55, 55);
+  &:focus {
+    outline: none;
+    border-color: #e4e8eb;
+  }
+}
+
+.loginbtn {
+  background-color: rgb(47, 52, 126);
+  color: white;
+  width: 80%;
+  margin-top: 4%;
+  border-radius: 6px;
+  border: none;
+}
+
+.loginbtn:hover {
+  color: rgb(1, 1, 26);
+}
+
+.googleauth {
+  width: 80%;
+}
+
+/*login page styling ends here */

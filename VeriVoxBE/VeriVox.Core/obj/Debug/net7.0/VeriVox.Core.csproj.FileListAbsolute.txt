@@ -1,0 +1,108 @@
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.deps.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.AssemblyReference.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfoInputs.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.AssemblyInfo.cs
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.csproj.CoreCompileInputs.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\refint\VeriVox.Core.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Core\obj\Debug\net7.0\ref\VeriVox.Core.dll

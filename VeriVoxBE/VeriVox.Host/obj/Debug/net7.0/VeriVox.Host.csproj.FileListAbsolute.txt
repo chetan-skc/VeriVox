@@ -1,0 +1,768 @@
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\chetan\Desktop\verivox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\Rajendra Patel\Documents\vervox\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.pdb
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentAssertions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentValidation.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\Rajendra Patel\Documents\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\chetan\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\verivox\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anurag Kumar\Documents\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentAssertions.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentValidation.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+D:\Customer-Feedback-Form\FeedbackForm\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.exe
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.deps.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.runtimeconfig.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Humanizer.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Business.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Core.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Database.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\bin\Debug\net7.0\VeriVox.Repository.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.AssemblyReference.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfoInputs.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.AssemblyInfo.cs
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CoreCompileInputs.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.VeriVox.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.VeriVox.Host.props
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VeriVox.Host.props
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VeriVox.Host.props
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\scopedcss\bundle\VeriVox.Host.styles.css
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.csproj.CopyComplete
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\refint\VeriVox.Host.dll
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.pdb
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\VeriVox.Host.genruntimeconfig.cache
+C:\Users\neels\Desktop\Backend\VeriVoxBE\VeriVox\VeriVox.Host\obj\Debug\net7.0\ref\VeriVox.Host.dll

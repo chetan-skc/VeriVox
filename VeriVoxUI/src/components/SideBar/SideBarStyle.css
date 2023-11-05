@@ -1,0 +1,40 @@
+.SideBar {
+  position: absolute;
+  background-color: #ffffff;
+  width: 15%;
+  height: 100%;
+  position: fixed;
+  display: inline;
+  z-index: 10000;
+}
+
+.BrandName {
+  color: rgb(47, 52, 126);
+  font-weight: 700;
+  text-align: center;
+}
+
+.BrandSlogan {
+  font-size: 12px;
+  text-align: center;
+}
+
+.pages {
+  text-decoration: none;
+  margin-top: 2%;
+  text-align: center;
+  display: block;
+  padding: 2% 0%;
+  color: rgb(47, 52, 126);
+}
+.pages:hover {
+  text-decoration: none;
+  background-color: #f1f3ff;
+  cursor: pointer;
+}
+.active {
+  text-decoration: none;
+  background-color: #f1f3ff;
+  /* border-right-style: solid;
+  border-right-color: #354e96; */
+}

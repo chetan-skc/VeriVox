@@ -1,0 +1,8 @@
+.RoutePage {
+  width: 85%;
+  height: max-content;
+  height: 200px;
+  position: absolute;
+  margin-left: 15%;
+  margin-top: 60px;
+}
